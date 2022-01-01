@@ -40,4 +40,5 @@ like:
 ```
 
 Thank you for your attention :-)
+
 [Discord](https://discord.gg/aty7pbvzHp) | [Profile](https://github.com/OsamuraiO)
