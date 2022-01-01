@@ -9,6 +9,13 @@ theme_object = json.load(configfile)
 configfile.close()
 
 # ================================================= #
+try:
+    with open("Data\\System Info.nfo","w"):
+        pass
+except:
+    pass
+
+# ================================================= #
 GAMESFILE = open("Data\\config.json","r")
 GAMES_NAME = json.load(GAMESFILE)
 GAMESFILE.close()
